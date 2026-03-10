@@ -80,15 +80,17 @@
 ---
 
 ## 🌱 Actualmente aprendiendo / Currently learning
-- 📚 Automatización de procesos de desarrollo con IA
-- 🧠 IA aplicada a pruebas QA y generación de documentación
-- 🔄 Microservicios y APIs inteligentes con Python
+- 🚀 Despliegue de agentes RAG en producción (Docker, cloud)
+- 📈 Evaluación y optimización de pipelines LLM
+- 🔍 Fine-tuning y prompt engineering avanzado
+- 🗃️ Bases de datos vectoriales y arquitecturas de conocimiento escalables
 
 ---
 
-- 📚 AI-powered automation for software development  
-- 🧠 AI for QA testing and technical documentation  
-- 🔄 Smart microservices and APIs with Python
+- 🚀 Deploying RAG agents to production (Docker, cloud)
+- 📈 LLM pipeline evaluation and optimization
+- 🔍 Fine-tuning and advanced prompt engineering
+- 🗃️ Vector databases and scalable knowledge architectures
 
 ---
 
