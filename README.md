@@ -19,31 +19,34 @@
 | 📊 [Business AI Agent](https://github.com/alexv6v6/business-ai-agent) | AI business analyst with Groq function calling — KPIs, invoices, executive reports |
 | 🔍 [RAG Evaluador de Modelos](https://github.com/alexv6v6/rag-evaluador-modelos) | LLM evaluation framework — benchmark and compare RAG models |
 
----
 
 ## 🧠 Intereses / Interests
 - 🤖 Agentes inteligentes y sistemas RAG (Retrieval-Augmented Generation)
-- 🧪 Automatización de pruebas con Gherkin/Cucumber y Behave
-- 🧠 Integración de IA generativa en procesos de desarrollo de software
-- 📊 Visualización, gestión y análisis de datos empresariales
-- 🧩 Documentación técnica asistida por IA
+- 🗄️ Recuperación híbrida de conocimiento: búsqueda semántica + Text-to-SQL
+- 🧠 Integración de LLMs en procesos de negocio y toma de decisiones
+- 📊 Business Intelligence con IA: KPIs, reportes ejecutivos y análisis de datos
+- 🔗 Construcción de APIs inteligentes con FastAPI y Streamlit
+- 🧩 Gestión del conocimiento organizacional asistida por IA
 
 ---
 
-- 🤖 Intelligent agents and RAG-based systems (Retrieval-Augmented Generation)  
-- 🧪 Test automation using Gherkin/Cucumber and Behave  
-- 🧠 Integrating generative AI into software development processes  
-- 📊 Business data analysis, management, and visualization  
-- 🧩 AI-assisted technical documentation
+---
+- 🤖 Intelligent agents and RAG-based systems (Retrieval-Augmented Generation)
+- 🗄️ Hybrid knowledge retrieval: semantic search + Text-to-SQL
+- 🧠 Integrating LLMs into business processes and decision-making
+- 📊 AI-powered Business Intelligence: KPIs, executive reports and data analysis
+- 🔗 Building smart APIs with FastAPI and Streamlit
+- 🧩 AI-assisted organizational knowledge management
 
 ---
-
 ## 🛠️ Tecnologías / Technologies
-- 🐍 Python, SQL (PostgreSQL), Docker, Streamlit
-- 💬 LangChain, HuggingFace, ChromaDB, Groq
-- 🧪 Gherkin, Cucumber, Behave, TestGPT, CodiumAI
-- 📤 Outlook API, GitHub Actions, FastAPI, n8n
+- 🐍 Python, SQL (PostgreSQL, SQLite), Streamlit, FastAPI
+- 🤖 Groq, LangChain, HuggingFace, sentence-transformers
+- 🗄️ ChromaDB, Vector Stores, Text-to-SQL, RAG Pipelines
+- 🔗 n8n, GitHub Actions, REST APIs, Docker
 - 🧠 LLMs: LLaMA 3.3, Qwen, Phi-3, DistilGPT-2
+
+---
 
 ---
 
