@@ -1,0 +1,93 @@
+# 👋 Hola, soy Alex Valencia / Hi there, I'm Alex Valencia
+🎓 Ingeniero de Sistemas | 📚 Magíster en Gestión de la Información  
+🤖 Apasionado por la inteligencia artificial aplicada, automatización de pruebas y gestión del conocimiento.  
+💼 +10 años de experiencia en soporte técnico, integración de sistemas y desarrollo de soluciones prácticas con Python y SQL.
+
+---
+
+🎓 Systems Engineer | 📚 M.Sc. in Information Management  
+🤖 Passionate about applied artificial intelligence, test automation, and knowledge management.  
+💼 10+ years of experience in technical support, systems integration, and practical solutions using Python and SQL.
+
+---
+
+## 🚀 Currently Building
+
+| Project | Description |
+|---|---|
+| 🧠 [AI Knowledge Hub](https://github.com/alexv6v6/ai-knowledge-hub) | Hybrid RAG + Text-to-SQL system — query documents and databases in natural language |
+| 📊 [Business AI Agent](https://github.com/alexv6v6/business-ai-agent) | AI business analyst with Groq function calling — KPIs, invoices, executive reports |
+| 🔍 [RAG Evaluador de Modelos](https://github.com/alexv6v6/rag-evaluador-modelos) | LLM evaluation framework — benchmark and compare RAG models |
+
+---
+
+## 🧠 Intereses / Interests
+- 🤖 Agentes inteligentes y sistemas RAG (Retrieval-Augmented Generation)
+- 🧪 Automatización de pruebas con Gherkin/Cucumber y Behave
+- 🧠 Integración de IA generativa en procesos de desarrollo de software
+- 📊 Visualización, gestión y análisis de datos empresariales
+- 🧩 Documentación técnica asistida por IA
+
+---
+
+- 🤖 Intelligent agents and RAG-based systems (Retrieval-Augmented Generation)  
+- 🧪 Test automation using Gherkin/Cucumber and Behave  
+- 🧠 Integrating generative AI into software development processes  
+- 📊 Business data analysis, management, and visualization  
+- 🧩 AI-assisted technical documentation
+
+---
+
+## 🛠️ Tecnologías / Technologies
+- 🐍 Python, SQL (PostgreSQL), Docker, Streamlit
+- 💬 LangChain, HuggingFace, ChromaDB, Groq
+- 🧪 Gherkin, Cucumber, Behave, TestGPT, CodiumAI
+- 📤 Outlook API, GitHub Actions, FastAPI, n8n
+- 🧠 LLMs: LLaMA 3.3, Qwen, Phi-3, DistilGPT-2
+
+---
+
+## 🧩 Proyectos destacados / Featured Projects
+- 🧠 **AI Knowledge Hub** — [ver repo](https://github.com/alexv6v6/ai-knowledge-hub)  
+  → Sistema RAG híbrido que combina búsqueda semántica sobre documentos con consultas SQL en lenguaje natural.
+
+- 📊 **Business AI Agent** — [ver repo](https://github.com/alexv6v6/business-ai-agent)  
+  → Analista de negocio con IA que responde preguntas sobre ventas, clientes, facturas y genera reportes ejecutivos.
+
+- 📧 **WhatsApp AI Bot** — [ver repo](https://github.com/alexv6v6/WhatsApp-AI-Bot-with-n8n)  
+  → Bot de WhatsApp con IA construido con n8n para automatización de respuestas inteligentes.
+
+- 🔄 **Weekly Report Automation** — [ver repo](https://github.com/alexv6v6/Weekly-Report)  
+  → Automatización de reportes semanales con n8n, PostgreSQL y Excel.
+
+---
+
+- 🧠 **AI Knowledge Hub** — [view repo](https://github.com/alexv6v6/ai-knowledge-hub)  
+  → Hybrid RAG system combining semantic document search with natural language SQL queries.
+
+- 📊 **Business AI Agent** — [view repo](https://github.com/alexv6v6/business-ai-agent)  
+  → AI-powered business analyst answering questions about sales, customers, invoices and generating executive reports.
+
+- 📧 **WhatsApp AI Bot** — [view repo](https://github.com/alexv6v6/WhatsApp-AI-Bot-with-n8n)  
+  → WhatsApp bot with AI built with n8n for intelligent automated responses.
+
+- 🔄 **Weekly Report Automation** — [view repo](https://github.com/alexv6v6/Weekly-Report)  
+  → Weekly report automation using n8n, PostgreSQL and Excel.
+
+---
+
+## 🌱 Actualmente aprendiendo / Currently learning
+- 📚 Automatización de procesos de desarrollo con IA
+- 🧠 IA aplicada a pruebas QA y generación de documentación
+- 🔄 Microservicios y APIs inteligentes con Python
+
+---
+
+- 📚 AI-powered automation for software development  
+- 🧠 AI for QA testing and technical documentation  
+- 🔄 Smart microservices and APIs with Python
+
+---
+
+📫 **Conectemos / Let's connect:**  
+[LinkedIn](https://www.linkedin.com/in/alexander-valencia-810a466b)
