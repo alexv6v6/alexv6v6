@@ -2,8 +2,11 @@
 🎓 Systems Engineer | 📚 M.Sc. in Strategic Information Management
 
 I design information systems that transform complex business knowledge into implementable software solutions.
+
 My work focuses on business systems analysis, information and process modeling, functional solution design, and AI-enabled knowledge systems. I specialize in translating regulations, operational processes, and domain expertise into structured specifications that can be implemented consistently across different technologies.
+
 Over the last 11+ years I have worked at the intersection of business, data, and technology, designing functional models, business rules, system integrations, SQL-based analytical solutions, and AI-powered knowledge management tools.
+
 My current projects explore how RAG, Text-to-SQL, automation, and specification-driven development can improve software quality, reduce ambiguity, and accelerate solution design.
 
 ## 🧭 My approach
